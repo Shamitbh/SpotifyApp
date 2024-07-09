@@ -1,0 +1,1 @@
+An app where users around the world can create "listening" rooms using their Spotify credentials and other users are allowed to join their rooms, play songs, add songs to queue, and pause songs virtually.
